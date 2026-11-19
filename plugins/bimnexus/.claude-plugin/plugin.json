@@ -1,0 +1,19 @@
+{
+  "name": "bimnexus",
+  "displayName": "BIMNEXUS",
+  "description": "Skills for Revit and BIM work with Claude: BIMNEXUS Revit rules and workflow guides, Dubai Building Code 2021 checks (architecture, technical, villas), task-observer for improving skills over time, and the Claude Code automation recommender.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sathihs0023-cloud"
+  },
+  "homepage": "https://github.com/sathihs0023-cloud/bimnexus-revit",
+  "repository": "https://github.com/sathihs0023-cloud/bimnexus-revit",
+  "license": "SEE LICENSES IN EACH SKILL",
+  "keywords": [
+    "revit",
+    "bim",
+    "dubai-building-code",
+    "bimnexus",
+    "mcp"
+  ]
+}

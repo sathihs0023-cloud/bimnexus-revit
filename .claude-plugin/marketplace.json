@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bimnexus",
+  "description": "BIMNEXUS plugins for Claude Code",
+  "owner": {
+    "name": "sathihs0023-cloud"
+  },
+  "plugins": [
+    {
+      "name": "bimnexus",
+      "description": "BIMNEXUS Revit rules and guides, Dubai Building Code 2021 notes, task-observer and the Claude Code automation recommender",
+      "version": "1.0.0",
+      "source": "./plugins/bimnexus",
+      "category": "development"
+    }
+  ]
+}

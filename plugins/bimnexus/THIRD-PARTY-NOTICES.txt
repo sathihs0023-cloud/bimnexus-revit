@@ -1,0 +1,40 @@
+BIMNEXUS Claude Code plugin – third-party notices
+
+skills/task-observer – "One Skill to Rule Them All" by Eoghan Henn and contributors,
+https://github.com/rebelytics/one-skill-to-rule-them-all, licensed CC-BY-4.0 (skills/task-observer/LICENSE).
+
+skills/claude-automation-recommender – from the claude-code-setup plugin by Anthropic, Apache License 2.0
+(skills/claude-automation-recommender/LICENSE and NOTICE).
+
+skills/dubai-building-code-* – paraphrased study notes of the Dubai Building Code 2021. Not the official text;
+verify against the latest edition published by Dubai Municipality.
+
+The revit-bim skills (Manas Bhatia, MIT) are NOT included in this plugin; install them from
+https://github.com/Utopia5327/revit-bim. They are included in the BIMNEXUS MCP Knowledge Pack:
+
+BIMNEXUS Knowledge Pack – third-party notices
+
+The entries named bnx-revit-bim-* are adapted from the revit-bim skill collection
+(https://github.com/Utopia5327/revit-bim), used under the MIT License:
+
+MIT License
+
+Copyright (c) 2025 Manas Bhatia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
